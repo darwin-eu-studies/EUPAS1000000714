@@ -1,0 +1,32 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.positai
+.claude/
+work/
+
+# Study results and exports
+results/
+Results/
+Results_*/
+*.zip
+*.rds
+
+# Secrets and local credentials
+.Renviron
+.env
+*.p8
+*.pem
+token.txt
+
+# Release / planning artefacts (keep local; do not ship in public EUPAS / code ZIP)
+# Checklist is filled for Teams Dissemination handoff; agent docs stay on the DS machine.
+Study_Code_Release_Checklist.md
+docs/
+
+# Cursor / agent workspace notes — local only (not darwin-eu-studies)
+AGENTS.md
+.cursorignore
+
+.DS_Store

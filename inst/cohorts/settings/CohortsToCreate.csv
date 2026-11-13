@@ -1,0 +1,13 @@
+atlas_id,cohort_id,cohort_name,logic_description,generate_stats
+1878,1878,P4-C1-015 childhood hypertension overall no prior obs,NA,FALSE
+1879,1879,P4-C1-015 primary childhood hypertension no prior obs,NA,FALSE
+1880,1880,P4-C1-015 secondary childhood hypertension no prior obs,NA,FALSE
+2029,2029,"P4-C1-015 childhood hypertension and angiotensin II receptor blockers, plain (C09CA)",NA,FALSE
+2030,2030,P4-C1-015 childhood hypertension + ARBs and calcium channel blockers (C09DB),NA,FALSE
+2031,2031,"P4-C1-015 childhood hypertension + ARBs, combination (C09DA)",NA,FALSE
+2032,2032,"P4-C1-015 childhood hypertension + ARBs, other combinations (C09DX)",NA,FALSE
+2033,2033,P4-C1-015 childhood hypertension + diuretics (C03),NA,FALSE
+2034,2034,P4-C1-015 childhood hypertension + beta blocking agents (C07),NA,FALSE
+2035,2035,P4-C1-015 childhood hypertension +calcium channel blockers (C08),NA,FALSE
+2140,2140,P4-C1-015 childhood hypertension + Non-sartan agents acting on the renin-angiotensin system C09,NA,FALSE
+2319,2319,P4-C1-015 overall hypertension sensitivity,NA,FALSE
